@@ -1,0 +1,10 @@
+{
+  "name": "web-lab3",
+  "version": "1.0.0",
+  "description": "Web Programming Assignment 3 - University Course Management System",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
